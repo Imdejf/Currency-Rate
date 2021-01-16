@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyRate.Mvc", "src\Cur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyRate.Mvc.tests", "tests\CurrencyRate.Mvc.tests\CurrencyRate.Mvc.tests.csproj", "{84C0DD2D-45AC-4501-94DD-FD42CBFDFC55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyRate.Entity", "src\CurrencyRate.Entity\CurrencyRate.Entity.csproj", "{83010A6C-9031-4727-97A0-C3E7C1360D58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyRate.Entity.tests", "tests\CurrencyRate.Entity.tests\CurrencyRate.Entity.tests.csproj", "{5F8BBE44-DC6F-404E-B517-E7C63BC1D40D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{84C0DD2D-45AC-4501-94DD-FD42CBFDFC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84C0DD2D-45AC-4501-94DD-FD42CBFDFC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84C0DD2D-45AC-4501-94DD-FD42CBFDFC55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83010A6C-9031-4727-97A0-C3E7C1360D58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83010A6C-9031-4727-97A0-C3E7C1360D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83010A6C-9031-4727-97A0-C3E7C1360D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83010A6C-9031-4727-97A0-C3E7C1360D58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F8BBE44-DC6F-404E-B517-E7C63BC1D40D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F8BBE44-DC6F-404E-B517-E7C63BC1D40D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F8BBE44-DC6F-404E-B517-E7C63BC1D40D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F8BBE44-DC6F-404E-B517-E7C63BC1D40D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

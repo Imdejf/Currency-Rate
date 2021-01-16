@@ -2,3 +2,5 @@
 src/CurrencyRate.Mvc/wwwroot/
 src/CurrencyRate.Mvc/obj/
 tests/CurrencyRate.Mvc.tests/obj/
+tests/CurrencyRate.Entity.tests/obj/
+src/CurrencyRate.Entity/obj/
