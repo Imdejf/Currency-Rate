@@ -1,1 +1,4 @@
 .vs/
+src/CurrencyRate.Mvc/wwwroot/
+src/CurrencyRate.Mvc/obj/
+tests/CurrencyRate.Mvc.tests/obj/
